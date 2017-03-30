@@ -1,5 +1,5 @@
 # Unity3DMobileGame
-> For Android 4 or Upper
+> For Android 4.0 or Upper
 
 Kalü Adventure is a mobile game which use the device's rotation as game mechanic.
 
